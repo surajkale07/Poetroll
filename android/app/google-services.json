@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615557205722",
+    "project_id": "poetroll-b58bd",
+    "storage_bucket": "poetroll-b58bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615557205722:android:60728c9f579b79f4059fe3",
+        "android_client_info": {
+          "package_name": "com.aries.poetroll"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlsWpwmrdaJzLHsEobCHDDlQqxoV7WE5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
